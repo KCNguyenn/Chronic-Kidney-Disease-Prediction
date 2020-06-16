@@ -10,5 +10,5 @@ R
 ### Technique(s): 
 Logistic Regression
 
-### Files included: 
+### File(s) included: 
 R Code, R Workspace, Data description file, Final report
