@@ -11,4 +11,4 @@ R
 Logistic Regression
 
 ### File(s) included: 
-R Code, R Workspace, Data description file, Final report
+R Code, Data description file, Final report
