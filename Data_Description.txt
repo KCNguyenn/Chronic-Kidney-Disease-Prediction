@@ -1,0 +1,35 @@
+Variables	Definition
+ID		Identification 
+Age		Age in Years
+Female		"Gender, 1 if female, 0 if Male"
+Racegrp		"Ethnicity, white, black, hispanic, other"
+Educ		"Education Level,  1 if more than HS "
+Unmarried	1 if unmarried 
+Income		1 if household income is above the median
+CareSource	"Self reported source of medical care (Dr, HMO, Clinic, nonplace, other"
+Insured		1 if covered by health insurance
+Weight		Weight in KG
+Height		Height in CM
+BMI		Body Mass Index in kg/m^2 
+Obese		1 if BMI is above 30
+Waist		Waist Circumference
+SBP		Systolic Blood Pressure
+DBP		Diastolic Blood Pressure
+HDL		Good cholesterol 
+LDL		Bad cholesterol 
+Total Chol	HDL + LDL
+Dyslipidemia	Too high LDL or too low HDL
+PVD		Peripheral vascular disease reflected by reduced SBP at leg relative to arm 
+Activity	"1, 2, 3, 4. The greater the number, the greater the activity"
+Poor Vision	Self reported self vision 
+Smoker	Whether the patient has smoked at least 100 cigarettes or not
+Hypertension	Presence of at least 1 of 4 blood pressure indicators 
+Fam.HypertensionFamily history of hypertension
+Diabetes	Self reported physician diagnosis or lab test result 
+Fam.Diabetes	Family history of diabetes
+Stroke		"Self reported, whether the patient had a stroke or not"
+CVD		"Self reported, whether the patient had cardiovascular disease"
+Fam.CVD		Family history of cardiovascular disease 
+CHF		"Self reported, whether the patient had Congestive heart failure "
+Anemia		Whether the patient had Anemia or not
+CKD		Whether the patient had Chronic Kidney Disease 
